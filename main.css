@@ -219,6 +219,14 @@ html {
 	display: inline-block;
 }
 
+.bl-badge {
+	position: fixed;
+	left: 20px;
+	height: 70px;
+	background-color: purple;
+	border-top-radius: 500rem;
+}
+
 body {
     background-color: #DADADA;
 }
